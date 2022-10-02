@@ -65,6 +65,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Laanwj Blog](https://laanwj.github.io/) - Blog of Bitcoin core developer and reverse engineer.
 * [Crypto Analyst](https://www.cryptoanalyst.co/) - World’s premier cryptocurrency news analysis.
 * [Bitrazzi](https://bitrazzi.com/) - Bitcoin, Cryptocurrency And Blockchain News.
+* [Decrypt](https://decrypt.co/manifesto) - Although Decrypt was just established in 2018, it is currently on of the most-read Web3 news site and blog.
 
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
